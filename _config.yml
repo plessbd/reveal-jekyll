@@ -5,6 +5,7 @@ highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
 markdown:    kramdown
 lsi:         false
+baseurl:     "/reveal-jekyll"
 permalink:   "/:title"
 
 kramdown:
